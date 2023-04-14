@@ -1,0 +1,43 @@
+.navbar{
+max-height: 70px;
+}
+
+.a-logo{
+    color: rgb(175, 56, 56);
+    background-color: rgb(245, 228, 202);
+    padding: 10px 40px;
+    font-size: 70px;
+    width: fit-content;
+}
+
+.logo-aspire{
+    max-width: 10em;
+    align-items: center;
+}
+
+.section--one{
+    height: 500px;
+    color: rgb(245, 228, 202);
+    background-image: url(./resources/sectionone.png);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.apply-section{
+    background-color: brown;
+    color: rgb(245, 228, 202);
+}
+
+.big-a-section{
+    background-color: rgb(243, 237, 212);
+}
+
+ul li{
+    list-style: none;
+}
+
+.footer{
+    background-color: rgb(61, 40, 40);
+    color: rgb(245, 228, 202);
+}
